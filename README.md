@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝙐𝘿𝙃𝙍𝘼+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙍𝙐𝘿𝙃;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+BOSSMODZ+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+BOSS+MODZ;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/6p3x1x6.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="BOSS-MODZ.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BOSSMODZ" src="https://img.shields.io/badge/BOSSMODZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/PrinceRudh"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/BOSSMODZ"><img title="Author" src="https://img.shields.io/badge/Author-BOSSMODZ/BOSSMODZ?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/PrinceRudh">PrinceRudh</a> to make it public
+Project created by <a href="https://github.com/BOSSMODZ">BOSSMODZ</a> to make it public
     <br>
        | © |
         Reserved |
@@ -24,13 +24,13 @@ Project created by <a href="https://github.com/PrinceRudh">PrinceRudh</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/PrinceRudh/Rudhra">
-    <img src="https://img.shields.io/github/repo-size/PrinceRudh/Rudhra?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/BOSSMODZ/BOSSMODZ">
+    <img src="https://img.shields.io/github/repo-size/BOSSMODZ/BOSSMODZ?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/PrinceRudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=blue&style=flat-square"></a>
-<a href="https://github.com/PrinceRudh/Rudhra/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PrinceRudh/Rudhra?color=blue&style=flat-square"></a>
-<a href="https://github.com/PrinceRudh/Rudhra/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PrinceRudh/Rudhra?color=blue&style=flat-square"></a>
-<a href="https://github.com/PrinceRudh/Rudhra/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PrinceRudh/Rudhra?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/BOSSMODZ/followers"><img title="Followers" src="https://img.shields.io/github/followers/BOSSMODZ?color=blue&style=flat-square"></a>
+<a href="https://github.com/BOSSMODZ/BOSSMODZ/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BOSSMODZ/BOSSMODZ?color=blue&style=flat-square"></a>
+<a href="https://github.com/BOSSMODZ/BOSSMODZ/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BOSSMODZ/BOSSMODZ?color=blue&style=flat-square"></a>
+<a href="https://github.com/BOSSMODZ/BOSSMODZ/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BOSSMODZ/BOSSMODZ?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/PrinceRudh">PrinceRudh</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png(https://chat.whatsapp.com/EXscYy2aDMY71q7VxpH2Nl)
   <div align="center">
        
   </div>
@@ -48,9 +48,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Prince-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@BOSSMODZ-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BOSSMODZ/Rudhra2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BOSSMODZ/BOSSMODZ)
      </div>
 <br>
 <br >
@@ -65,8 +65,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/BOSSMODZ/Rudhra2.0
-$ cd BOSSMODZ/Rudhra2.0
+$ git clone https://github.com/BOSSMODZ/BOSSMODZ
+$ cd BOSSMODZ/BOSSMODZ
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -75,8 +75,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/BOSSMODZ/Rudhra2.0
-$ cd BOSSMODZ/Rudhra2.0
+$ git clone https://github.com/BOSSMODZ/BOSSMODZ
+$ cd BOSSMODZ/BOSSMODZ
 $ chmod +x *
 $ npm i
 $ node qr.js
